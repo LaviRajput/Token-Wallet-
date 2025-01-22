@@ -93,10 +93,5 @@ A struct that manages the token balance.
 ### Database Interaction
 The application uses MySQL for storing and retrieving transaction data. It interacts with the database using the `mysql` crate and leverages a connection pool for efficient database access.
 
-## Contributing
-Contributions are welcome! Please fork the repository and submit a pull request with your changes.
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 
